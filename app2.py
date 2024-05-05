@@ -1,1 +1,1 @@
-print("my evering code")
+print("my code")
